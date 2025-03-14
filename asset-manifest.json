@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/myreact01/static/css/main.17dc3d72.css",
-    "main.js": "/myreact01/static/js/main.1f96d0d2.js",
+    "main.js": "/myreact01/static/js/main.a616493c.js",
     "static/js/453.35fe2fe0.chunk.js": "/myreact01/static/js/453.35fe2fe0.chunk.js",
+    "static/media/summersea.jpg": "/myreact01/static/media/summersea.c5a954beb406021129a7.jpg",
     "index.html": "/myreact01/index.html",
     "main.17dc3d72.css.map": "/myreact01/static/css/main.17dc3d72.css.map",
-    "main.1f96d0d2.js.map": "/myreact01/static/js/main.1f96d0d2.js.map",
+    "main.a616493c.js.map": "/myreact01/static/js/main.a616493c.js.map",
     "453.35fe2fe0.chunk.js.map": "/myreact01/static/js/453.35fe2fe0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.17dc3d72.css",
-    "static/js/main.1f96d0d2.js"
+    "static/js/main.a616493c.js"
   ]
 }
